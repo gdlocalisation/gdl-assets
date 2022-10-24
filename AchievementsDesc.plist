@@ -925,7 +925,7 @@
 		<key>order</key>
 		<integer>3900</integer>
 		<key>title</key>
-		<string>Живущее Открытие</string>
+		<string>Живое Открытие</string>
 		<key>icon</key>
 		<string>color_25</string>
 		<key>unachievedDescription</key>
@@ -2747,11 +2747,11 @@
 		<key>order</key>
 		<integer>11600</integer>
 		<key>title</key>
-		<string>Прыгай, Форрест, прыгай</string>
+		<string>Прыгай, Форест, прыгай</string>
 		<key>icon</key>
 		<string>icon_33</string>
 		<key>unachievedDescription</key>
-		<string>Complete a Map Pack</string>
+		<string>Пройдите один Сборник Уровней</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQRg</string>
 	</dict>
@@ -3841,7 +3841,7 @@
 		<key>icon</key>
 		<string>color2_19</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQYw</string>
 	</dict>
@@ -3858,7 +3858,7 @@
 		<key>icon</key>
 		<string>icon_41</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQZA</string>
 	</dict>
@@ -3875,7 +3875,7 @@
 		<key>icon</key>
 		<string>color2_27</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQqwE</string>
 	</dict>
@@ -3892,7 +3892,7 @@
 		<key>icon</key>
 		<string>icon_39</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQZQ</string>
 	</dict>
@@ -3909,7 +3909,7 @@
 		<key>icon</key>
 		<string>ball_12</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQrAE</string>
 	</dict>
@@ -3943,7 +3943,7 @@
 		<key>icon</key>
 		<string>icon_62</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQrQE</string>
 	</dict>
@@ -3960,7 +3960,7 @@
 		<key>icon</key>
 		<string></string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQrgE</string>
 	</dict>
@@ -3977,7 +3977,7 @@
 		<key>icon</key>
 		<string>icon_51</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQrwE</string>
 	</dict>
@@ -3994,7 +3994,7 @@
 		<key>icon</key>
 		<string>bird_11</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQsAE</string>
 	</dict>
@@ -4011,7 +4011,7 @@
 		<key>icon</key>
 		<string>robot_02</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQsQE</string>
 	</dict>
@@ -4028,7 +4028,7 @@
 		<key>icon</key>
 		<string>dart_08</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQsgE</string>
 	</dict>
@@ -4045,7 +4045,7 @@
 		<key>icon</key>
 		<string>icon_55</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQswE</string>
 	</dict>
@@ -4062,7 +4062,7 @@
 		<key>icon</key>
 		<string>icon_50</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQtAE</string>
 	</dict>
@@ -4079,7 +4079,7 @@
 		<key>icon</key>
 		<string>ship_20</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQtQE</string>
 	</dict>
@@ -4096,7 +4096,7 @@
 		<key>icon</key>
 		<string>bird_12</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQtgE</string>
 	</dict>
@@ -4113,7 +4113,7 @@
 		<key>icon</key>
 		<string>special_04</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQtwE</string>
 	</dict>
@@ -4130,7 +4130,7 @@
 		<key>icon</key>
 		<string>dart_13</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQuAE</string>
 	</dict>
@@ -4147,7 +4147,7 @@
 		<key>icon</key>
 		<string>icon_64</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string>CgkIm5vi-_cMEAIQuQE</string>
 	</dict>
@@ -4164,7 +4164,7 @@
 		<key>icon</key>
 		<string>icon_80</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string></string>
 	</dict>
@@ -4181,7 +4181,7 @@
 		<key>icon</key>
 		<string>icon_78</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string></string>
 	</dict>
@@ -4198,7 +4198,7 @@
 		<key>icon</key>
 		<string></string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string></string>
 	</dict>
@@ -4215,7 +4215,7 @@
 		<key>icon</key>
 		<string>icon_81</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string></string>
 	</dict>
@@ -4232,7 +4232,7 @@
 		<key>icon</key>
 		<string>icon_76</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string></string>
 	</dict>
@@ -4249,7 +4249,7 @@
 		<key>icon</key>
 		<string>icon_108</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string></string>
 	</dict>
@@ -4266,7 +4266,7 @@
 		<key>icon</key>
 		<string>color_37</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string></string>
 	</dict>
@@ -4283,7 +4283,7 @@
 		<key>icon</key>
 		<string>color2_33</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string></string>
 	</dict>
@@ -4302,7 +4302,7 @@
 		<key>icon</key>
 		<string>icon_91</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string></string>
 	</dict>
@@ -4321,7 +4321,7 @@
 		<key>icon</key>
 		<string>icon_89</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string></string>
 	</dict>
@@ -4340,7 +4340,7 @@
 		<key>icon</key>
 		<string>color2_38</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string></string>
 	</dict>
@@ -4359,7 +4359,7 @@
 		<key>icon</key>
 		<string>icon_90</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string></string>
 	</dict>
@@ -4378,7 +4378,7 @@
 		<key>icon</key>
 		<string>dart_23</string>
 		<key>unachievedDescription</key>
-		<string>Требуется секрет</string>
+		<string>Требуется открыть секрет</string>
 		<key>googleID</key>
 		<string></string>
 	</dict>
